@@ -1,0 +1,9 @@
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\bin\Debug\DepartmentDAL.dll
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\bin\Debug\DepartmentDAL.pdb
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\bin\Debug\DepartmentDTO.dll
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\bin\Debug\DepartmentDTO.pdb
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\obj\Debug\DepartmentDAL.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\obj\Debug\DepartmentDAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\obj\Debug\DepartmentDAL.csproj.CopyComplete
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\obj\Debug\DepartmentDAL.dll
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentDAL\obj\Debug\DepartmentDAL.pdb

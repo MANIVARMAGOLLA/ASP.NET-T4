@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\bin\Debug\DepartmentBL.dll
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\bin\Debug\DepartmentBL.pdb
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\bin\Debug\DepartmentDAL.dll
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\bin\Debug\DepartmentDTO.dll
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\bin\Debug\DepartmentDAL.pdb
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\bin\Debug\DepartmentDTO.pdb
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\obj\Debug\DepartmentBL.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\obj\Debug\DepartmentBL.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\obj\Debug\DepartmentBL.csproj.CopyComplete
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\obj\Debug\DepartmentBL.dll
+C:\Users\User\Source\Repos\BommanikurvaRamesh\ASP.NET_ACTIVITY4\DepartmentBL\obj\Debug\DepartmentBL.pdb
